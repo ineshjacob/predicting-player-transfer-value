@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Wladimiro Falcone,it ITA,GK,27-359,28.0,2,0,2,0,0,2,2,100.0,0,0,0,0,2,4,17,2,Matches
+Federico Baschirotto,it ITA,DF,26-198,27.0,27,21,24,3,0,10,16,62.5,6,31,20,11,32,59,149,0,Matches
+Valentin Gendrey,fr FRA,DF,22-289,26.0,70,43,46,17,7,30,54,55.6,24,37,4,33,34,104,63,0,Matches
+Morten Hjulmand,dk DEN,MF,23-285,24.6,69,37,38,31,0,26,49,53.1,23,32,9,23,60,129,47,0,Matches
+Joan Gonzàlez,es ESP,MF,21-064,21.6,41,22,18,16,7,14,44,31.8,30,34,7,27,14,55,27,0,Matches
+Gabriel Strefezza,br BRA,FW,25-353,20.3,38,19,15,17,6,18,35,51.4,17,24,2,22,14,52,14,0,Matches
+Antonino Gallo,it ITA,DF,23-091,18.9,45,28,28,10,7,30,41,73.2,11,25,3,22,11,56,45,0,Matches
+Alexis Blin,fr FRA,MF,26-202,18.7,52,27,21,23,8,29,51,56.9,22,40,11,29,25,77,65,0,Matches
+Federico Di Francesco,it ITA,"FW,MF",28-296,16.2,21,13,6,8,7,6,14,42.9,8,12,0,12,6,27,12,0,Matches
+Lorenzo Colombo,it ITA,FW,21-029,14.1,13,5,1,7,5,4,11,36.4,7,19,0,19,2,15,5,0,Matches
+Lameck Banda,zm ZAM,"FW,MF",22-067,13.6,23,14,9,11,3,10,30,33.3,20,20,2,18,3,26,2,0,Matches
+Samuel Umtiti,fr FRA,DF,29-143,13.5,36,22,16,20,0,14,19,73.7,5,15,9,6,17,53,46,0,Matches
+Assan Ceesay,gm GAM,FW,29-020,13.2,20,16,7,6,7,7,12,58.3,5,10,1,9,3,23,21,0,Matches
+Giuseppe Pezzella,it ITA,DF,25-128,9.1,21,9,16,2,3,9,16,56.3,7,11,3,8,6,27,27,1,Matches
+Marin Pongračić,hr CRO,DF,25-207,8.8,16,14,8,7,1,5,7,71.4,2,4,3,1,16,32,31,0,Matches
+Kristoffer Askildsen,no NOR,MF,22-087,6.9,7,3,2,3,2,4,8,50.0,4,11,3,8,10,17,6,0,Matches
+Alessandro Tuia,it ITA,DF,32-302,5.7,10,6,6,4,0,3,9,33.3,6,3,1,2,15,25,29,0,Matches
+Kristijan Bistrović,hr CRO,MF,24-362,5.1,3,1,3,0,0,0,5,0.0,5,3,0,3,0,3,4,0,Matches
+Youssef Maleh,it ITA,MF,24-227,4.9,15,6,3,5,7,5,13,38.5,8,12,0,12,3,18,6,0,Matches
+Remi Oudin,fr FRA,FW,26-139,5.5,15,7,4,9,2,5,10,50.0,5,9,0,9,14,29,7,0,Matches
+Þórir Jóhann Helgason,is ISL,MF,22-190,2.1,2,2,1,0,1,2,3,66.7,1,2,1,1,3,5,3,0,Matches
+Yıldırım Mert Çetin,tr TUR,DF,26-095,0.2,1,0,1,0,0,0,0,,0,0,0,0,1,2,1,0,Matches
+Marcin Listkowski,pl POL,"MF,FW",25-055,0.9,0,0,0,0,0,0,0,,0,0,0,0,3,3,2,0,Matches
+Joel Voelkerling Persson,se SWE,FW,20-081,0.7,1,1,0,0,1,0,0,,0,1,0,1,0,1,0,0,Matches
+Pablo Rodríguez,es ESP,"FW,MF",21-245,0.6,2,1,2,0,0,0,2,0.0,2,3,0,3,0,2,0,0,Matches
+Kastriot Dermaku,al ALB,DF,31-081,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Simone Romagnoli,it ITA,DF,33-056,0.3,1,1,0,1,0,0,0,,0,0,0,0,0,1,2,0,Matches
+Pietro Ceccaroni,it ITA,DF,27-106,0.3,0,0,0,0,0,0,0,,0,1,1,0,3,3,1,0,Matches
+Tommaso Cassandro,it ITA,DF,23-087,0.1,1,1,0,1,0,0,0,,0,1,1,0,0,1,0,0,Matches
+Squad Total,,,25.3,28.0,552,319,277,201,74,233,451,51.7,218,360,81,279,297,849,632,3,
+Opponent Total,,,27.3,28.0,438,243,227,162,49,186,356,52.2,170,271,79,192,233,671,497,6,

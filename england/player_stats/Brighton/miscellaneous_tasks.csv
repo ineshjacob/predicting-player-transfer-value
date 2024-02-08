@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Lewis Dunk,eng ENG,DF,31-136,27.0,2,0,0,14,17,1,1,27,11,0,3,1,174,52,37,58.4,Matches
+Pascal Groß,de GER,"MF,DF",31-295,26.2,2,0,0,22,14,9,177,12,24,0,1,0,98,6,30,16.7,Matches
+Solly March,eng ENG,"FW,DF",28-260,25.9,2,0,0,40,35,12,131,21,23,0,0,0,109,26,32,44.8,Matches
+Moisés Caicedo,ec ECU,MF,21-155,25.1,8,0,0,49,37,0,10,40,38,0,0,0,179,27,15,64.3,Matches
+Alexis Mac Allister,ar ARG,MF,24-103,23.0,7,0,0,27,35,0,19,21,30,0,0,1,163,16,8,66.7,Matches
+Robert Sánchez,es ESP,GK,25-139,22.0,1,0,0,1,0,0,0,3,0,0,1,0,25,6,0,100.0,Matches
+Pervis Estupiñán,ec ECU,DF,25-075,19.4,3,0,0,26,16,7,62,29,23,1,0,0,122,28,20,58.3,Matches
+Joël Veltman,nl NED,DF,31-081,20.9,2,0,0,21,32,0,18,19,30,0,1,0,113,20,18,52.6,Matches
+Adam Webster,eng ENG,DF,28-092,17.6,1,0,0,8,5,0,2,16,11,0,0,1,114,47,22,68.1,Matches
+Leandro Trossard,be BEL,"FW,MF",28-123,14.6,1,0,0,10,13,4,35,6,6,1,0,0,65,6,11,35.3,Matches
+Kaoru Mitoma,jp JPN,"FW,MF",25-321,16.1,0,0,0,13,15,5,27,9,20,1,0,0,68,11,13,45.8,Matches
+Danny Welbeck,eng ENG,FW,32-131,15.1,0,0,0,22,11,3,0,3,6,1,0,0,21,24,23,51.1,Matches
+Adam Lallana,eng ENG,"MF,FW",34-331,8.0,0,0,0,2,7,0,3,2,4,0,0,0,25,8,9,47.1,Matches
+Levi Colwill,eng ENG,DF,20-039,7.1,0,0,0,2,7,0,0,8,2,0,0,0,39,28,6,82.4,Matches
+Evan Ferguson,ie IRL,FW,18-169,6.0,1,0,0,5,5,1,0,1,3,0,0,0,16,6,7,46.2,Matches
+Jason Steele,eng ENG,GK,32-231,5.0,1,0,0,1,0,0,0,0,0,0,0,0,10,0,0,,Matches
+Tariq Lamptey,gh GHA,DF,22-188,5.0,1,0,0,6,14,0,31,7,6,0,0,0,31,2,7,22.2,Matches
+Deniz Undav,de GER,"FW,MF",26-261,2.9,0,0,0,3,1,4,1,0,3,0,0,0,6,5,5,50.0,Matches
+Enock Mwepu,zm ZAM,"FW,MF",25-095,2.4,0,0,0,2,1,2,3,1,5,0,0,0,9,0,7,0.0,Matches
+Billy Gilmour,sct SCO,MF,21-299,1.8,1,0,0,1,0,0,0,1,0,0,0,0,8,1,3,25.0,Matches
+Jeremy Sarmiento,ec ECU,MF,20-294,2.0,1,0,0,4,4,0,3,1,3,0,0,0,4,0,4,0.0,Matches
+Jan Paul van Hecke,nl NED,DF,22-302,0.9,0,0,0,0,0,0,0,4,1,0,0,0,4,2,2,50.0,Matches
+Julio César Enciso,py PAR,"FW,MF",19-073,2.1,1,0,0,4,4,0,1,1,0,0,0,0,10,1,4,20.0,Matches
+Facundo Buonanotte,ar ARG,"FW,MF",18-104,0.6,0,0,0,2,0,0,1,0,0,0,0,0,3,0,0,,Matches
+Andrew Moran,ie IRL,FW,19-173,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Yasin Ayari,se SWE,MF,19-182,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0.0,Matches
+Squad Total,,,27.4,27.0,35,0,0,285,273,48,525,232,250,4,6,3,1417,322,284,53.1,
+Opponent Total,,,27.3,27.0,62,1,0,290,275,33,327,306,247,5,5,4,1313,284,322,46.9,
